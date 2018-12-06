@@ -1,5 +1,3 @@
-react+antd
-
 ## React + Antd
 
 执行下面命令来运行:
